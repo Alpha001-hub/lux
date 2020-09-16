@@ -1,2 +1,1 @@
-conflict.md
-I wrote it on A branch
+I wrote on branch B
